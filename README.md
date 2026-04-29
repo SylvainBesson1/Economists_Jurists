@@ -6,4 +6,4 @@
 
 This project will be carried out using the data made available on the **[DBpedia](https://www.dbpedia.org/)**, **[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)**, and **[BnF Data](https://data.bnf.fr/)** SPARQL endpoints. The data will be aggregated and cleansed, the final aim is to obtain a certain volume of consistent information, expressed with a coherent ontology, in order to implement some analysis and identify some characteristic and structural aspects of this population. 
 
-Go to the [website](https://semantic-data-for-humanities.github.io/Economists_Jurists/) to learn more about the project.
+Go to the [wiki]([https://semantic-data-for-humanities.github.io/Economists_Jurists/](https://phn-wiki.ish-lyon.cnrs.fr/doku.php?id=besson_sylvain:economist_jurist)) to learn more about the project.
